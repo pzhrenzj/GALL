@@ -1,3 +1,21 @@
+#EXTINF:-1 group-title="Telegram-H", [5.12G]Tele-20250618-H-001
+http://192.168.1.200:5244/d/BaiduG/Telegram/H/Tele-20250618-H-001.mbb
+
+#EXTINF:-1 group-title="Telegram-S", [5.02G]Tele-20250611-S-001
+http://192.168.1.200:5244/d/BaiduG/Telegram/S/Tele-20250611-S-001.mbb
+
+#EXTINF:-1 group-title="Telegram-H", [3.52G]Tele-20250611-H-006
+http://192.168.1.200:5244/d/BaiduG/Telegram/H/Tele-20250611-H-006.mbb
+
+#EXTINF:-1 group-title="Telegram-H", [7.66G]Tele-20250611-H-005
+http://192.168.1.200:5244/d/BaiduG/Telegram/H/Tele-20250611-H-005.mbb
+
+#EXTINF:-1 group-title="Telegram-S", [6.26G]Tele-20250611-S-002
+http://192.168.1.200:5244/d/BaiduG/Telegram/S/Tele-20250611-S-002.mbb
+
+#EXTINF:-1 group-title="Telegram-S", [4.45G]Tele-20250611-S-003
+http://192.168.1.200:5244/d/BaiduG/Telegram/S/Tele-20250611-S-003.mbb
+
 #EXTINF:-1 group-title="Telegram-H", [7.47G]Tele-20250611-H-003
 http://192.168.1.200:5244/d/BaiduG/Telegram/H/Tele-20250611-H-003.mbb
 
@@ -654,8 +672,8 @@ http://192.168.1.200:5244/d/BaiduG/Telegram/H/Tele-20250305-H-007.mbb
 http://192.168.1.200:5244/d/BaiduG/Telegram/H/Tele-20250305-H-008.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [2.91G]OnlyFans¨CKuaysuper¨CHiddenHarem
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨CKuaysuper¨CHiddenHarem.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [2.91G]OnlyFansâ€“Kuaysuperâ€“HiddenHarem
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“Kuaysuperâ€“HiddenHarem.mbb
 
 
 #EXTINF:-1 group-title="SysM-F", [2.66G]OF-RhyheimPart 02 (Bareback) 720p
@@ -670,12 +688,12 @@ http://192.168.1.200:5244/d/BaiduG/TWer/20200918-H-ALL_m.mbb
 http://192.168.1.200:5244/d/BaiduG/OF/06-202209-OnlyFans.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [2.56G]OnlyFans¨Ckuaysuper¨CMasterandhisSlave
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨Ckuaysuper¨CMasterandhisSlave.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [2.56G]OnlyFansâ€“kuaysuperâ€“MasterandhisSlave
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“kuaysuperâ€“MasterandhisSlave.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [2.52G]OnlyFans¨CKuaysuper-SuperKuayXL&TienQuan
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨CKuaysuper-SuperKuayXL&TienQuan.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [2.52G]OnlyFansâ€“Kuaysuper-SuperKuayXL&TienQuan
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“Kuaysuper-SuperKuayXL&TienQuan.mbb
 
 
 #EXTINF:-1 group-title="OF", [2.48G]07-202209-OnlyFans
@@ -750,16 +768,16 @@ http://192.168.1.200:5244/d/BaiduG/OF/202206-03-OnlyF.mbb
 http://192.168.1.200:5244/d/BaiduG/OF/29-202209-OnlyFans.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [1.58G]OnlyFans¨CKuaysuper¨CTheVideoSemenX
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨CKuaysuper¨CTheVideoSemenX.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [1.58G]OnlyFansâ€“Kuaysuperâ€“TheVideoSemenX
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“Kuaysuperâ€“TheVideoSemenX.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [1.56G]OnlyFans¨CKuaysuper¨CMyRoommate
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨CKuaysuper¨CMyRoommate.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [1.56G]OnlyFansâ€“Kuaysuperâ€“MyRoommate
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“Kuaysuperâ€“MyRoommate.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [1.53G]OnlyFans¨Ckuaysuper¨CLostToLustEp1
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨Ckuaysuper¨CLostToLustEp1.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [1.53G]OnlyFansâ€“kuaysuperâ€“LostToLustEp1
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“kuaysuperâ€“LostToLustEp1.mbb
 
 
 #EXTINF:-1 group-title="OF", [1.51G]32-202209-OnlyFans
@@ -774,8 +792,8 @@ http://192.168.1.200:5244/d/BaiduG/OF/31-202209-OnlyFans.mbb
 http://192.168.1.200:5244/d/BaiduG/OF/33-202209-OnlyFans.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [1.48G]OnlyFans¨Ckuaysuper¨CLostToLustEp2
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨Ckuaysuper¨CLostToLustEp2.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [1.48G]OnlyFansâ€“kuaysuperâ€“LostToLustEp2
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“kuaysuperâ€“LostToLustEp2.mbb
 
 
 #EXTINF:-1 group-title="OF-Ntqvn", [1.46G]048-OnlyF-Ntqvn
@@ -826,8 +844,8 @@ http://192.168.1.200:5244/d/BaiduG/OF/202206-02-OnlyF.mbb
 http://192.168.1.200:5244/d/BaiduG/OF/Ntqvn/050-OnlyF-Ntqvn.mbb
 
 
-#EXTINF:-1 group-title="OF-Kuaysuper", [1.33G]OnlyFans¨CKuaysuper¨CTheShanghaiMansion
-http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFans¨CKuaysuper¨CTheShanghaiMansion.mbb
+#EXTINF:-1 group-title="OF-Kuaysuper", [1.33G]OnlyFansâ€“Kuaysuperâ€“TheShanghaiMansion
+http://192.168.1.200:5244/d/BaiduG/OF/Kuaysuper/OnlyFansâ€“Kuaysuperâ€“TheShanghaiMansion.mbb
 
 
 #EXTINF:-1 group-title="OF", [1.33G]18-202209-OnlyFans
@@ -1102,7 +1120,7 @@ http://192.168.1.200:5244/d/BaiduG/OF/Ntqvn/039-OnlyF-Ntqvn.mbb
 http://192.168.1.200:5244/d/BaiduG/OF/Ntqvn/019-OnlyF-Ntqvn.mbb
 
 
-#EXTINF:-1 group-title="¸ùÄ¿Â¼", [0.41G]016-TuTu
+#EXTINF:-1 group-title="æ ¹ç›®å½•", [0.41G]016-TuTu
 http://192.168.1.200:5244/d/BaiduG/016-TuTu.mbb
 
 
@@ -1426,8 +1444,8 @@ http://192.168.1.200:5244/d/BaiduG/Telegram/S/Tele-20250219-S-003.mbb
 http://192.168.1.200:5244/d/BaiduG/Telegram/S/Tele-20250226-S-008.mbb
 
 
-#EXTINF:-1 group-title="Telegram-HJ-S", [8.87G]Tel-202502-°Ë¸ç-18
-http://192.168.1.200:5244/d/BaiduG/Telegram/HJ/S/Tel-202502-°Ë¸ç-18.mbb
+#EXTINF:-1 group-title="Telegram-HJ-S", [8.87G]Tel-202502-å…«å“¥-18
+http://192.168.1.200:5244/d/BaiduG/Telegram/HJ/S/Tel-202502-å…«å“¥-18.mbb
 
 
 #EXTINF:-1 group-title="Telegram-S", [0.75G]Tele-20250226-S-006
@@ -2614,8 +2632,8 @@ http://192.168.1.200:5244/d/BaiduG/202206/202206-22-OnlyFans.mbb
 http://192.168.1.200:5244/d/BaiduG/F/74-202209-FN.mbb
 
 
-#EXTINF:-1 group-title="20190718-JAP", [0.85G]AsiaBoy - Guy & Dave (°´M no mask)
-http://192.168.1.200:5244/d/BaiduG/20190718/JAP/AsiaBoy - Guy & Dave (°´M no mask).mbb
+#EXTINF:-1 group-title="20190718-JAP", [0.85G]AsiaBoy - Guy & Dave (æŒ‰M no mask)
+http://192.168.1.200:5244/d/BaiduG/20190718/JAP/AsiaBoy - Guy & Dave (æŒ‰M no mask).mbb
 
 
 #EXTINF:-1 group-title="F", [0.84G]66-202209-FN
@@ -2878,8 +2896,8 @@ http://192.168.1.200:5244/d/BaiduG/SysM/J/Muscl/TO-WA015_m.mbb
 http://192.168.1.200:5244/d/BaiduG/20200817/20200817-35-JP_m.mbb
 
 
-#EXTINF:-1 group-title="SysM-MobFilBack", [0.41G]016-¹ú
-http://192.168.1.200:5244/d/BaiduG/SysM/MobFilBack/016-¹ú.mbb
+#EXTINF:-1 group-title="SysM-MobFilBack", [0.41G]016-å›½
+http://192.168.1.200:5244/d/BaiduG/SysM/MobFilBack/016-å›½.mbb
 
 
 #EXTINF:-1 group-title="TWer-Recode", [0.41G]2021-04-28 10-26-29_10003
@@ -7318,8 +7336,8 @@ http://192.168.1.200:5244/d/BaiduG/202306/CN-22-OF.mbb
 http://192.168.1.200:5244/d/BaiduG/202306/CN-25-OF.mbb
 
 
-#EXTINF:-1 group-title="202306", [1.13G]CN-32-OF-Êú
-http://192.168.1.200:5244/d/BaiduG/202306/CN-32-OF-Êú.mbb
+#EXTINF:-1 group-title="202306", [1.13G]CN-32-OF-ç«–
+http://192.168.1.200:5244/d/BaiduG/202306/CN-32-OF-ç«–.mbb
 
 
 #EXTINF:-1 group-title="202306", [1.02G]CN-23-OF
@@ -7642,23 +7660,23 @@ http://192.168.1.200:5244/d/BaiduG/JAP/massage/TR-MG024-00.mbb
 http://192.168.1.200:5244/d/BaiduG/202302/[UK Hot Jocks] The Main Show.mbb
 
 
-#EXTINF:-1 group-title="¸ùÄ¿Â¼", [1.66G]X-CR-0248
+#EXTINF:-1 group-title="æ ¹ç›®å½•", [1.66G]X-CR-0248
 http://192.168.1.200:5244/d/BaiduG/X-CR-0248.mbb
 
 
-#EXTINF:-1 group-title="¸ùÄ¿Â¼", [1.39G]G-MR-KR1360
+#EXTINF:-1 group-title="æ ¹ç›®å½•", [1.39G]G-MR-KR1360
 http://192.168.1.200:5244/d/BaiduG/G-MR-KR1360.mbb
 
 
-#EXTINF:-1 group-title="¸ùÄ¿Â¼", [0.93G][LegalPorno] Mike?'s girlfriend
+#EXTINF:-1 group-title="æ ¹ç›®å½•", [0.93G][LegalPorno] Mike?'s girlfriend
 http://192.168.1.200:5244/d/BaiduG/[LegalPorno] Mike?'s girlfriend.mbb
 
 
-#EXTINF:-1 group-title="¸ùÄ¿Â¼", [0.66G]jan26-14HD_1280
+#EXTINF:-1 group-title="æ ¹ç›®å½•", [0.66G]jan26-14HD_1280
 http://192.168.1.200:5244/d/BaiduG/jan26-14HD_1280.mbb
 
 
-#EXTINF:-1 group-title="¸ùÄ¿Â¼", [0.52G]Yoshi Kawasaki & Lucio Saints
+#EXTINF:-1 group-title="æ ¹ç›®å½•", [0.52G]Yoshi Kawasaki & Lucio Saints
 http://192.168.1.200:5244/d/BaiduG/Yoshi Kawasaki & Lucio Saints.mbb
 
 
@@ -8102,8 +8120,8 @@ http://192.168.1.200:5244/d/BaiduG/SysM/F/OF - Rhyheim Shabazz &amp; Brazilian O
 http://192.168.1.200:5244/d/BaiduG/SysM/F/OF - Rhyheim Shabazz & Leo.mbb
 
 
-#EXTINF:-1 group-title="SysM-F", [1.10G]GF-001-[iBoY1069.oRg]HotHouse ¨C Hot House Flippers ¨C Ryan Rose, Austin Avery & Wess Russel (FHD)
-http://192.168.1.200:5244/d/BaiduG/SysM/F/GF-001-[iBoY1069.oRg]HotHouse ¨C Hot House Flippers ¨C Ryan Rose, Austin Avery & Wess Russel (FHD).mbb
+#EXTINF:-1 group-title="SysM-F", [1.10G]GF-001-[iBoY1069.oRg]HotHouse â€“ Hot House Flippers â€“ Ryan Rose, Austin Avery & Wess Russel (FHD)
+http://192.168.1.200:5244/d/BaiduG/SysM/F/GF-001-[iBoY1069.oRg]HotHouse â€“ Hot House Flippers â€“ Ryan Rose, Austin Avery & Wess Russel (FHD).mbb
 
 
 #EXTINF:-1 group-title="SysM-F", [1.09G]MEN - Alex Mecum & Theo Brady - Conference Cock - FHD
@@ -8598,7 +8616,7 @@ http://192.168.1.200:5244/d/BaiduG/XXX/UGS66.mbb
 http://192.168.1.200:5244/d/BaiduG/XXX/BOYST0084 super hot jock abs.mbb
 
 
-#EXTINF:-1 group-title="¸ùÄ¿Â¼", [0.88G]XXX
+#EXTINF:-1 group-title="æ ¹ç›®å½•", [0.88G]XXX
 http://192.168.1.200:5244/d/BaiduG/XXX.mbb
 
 
